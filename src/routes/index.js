@@ -3,6 +3,8 @@ const courseRoute = require('./course.route');
 
 const router = express.Router();
 
+//Route
+
 const defaultRoutes = [
   {
     path: '/course',
